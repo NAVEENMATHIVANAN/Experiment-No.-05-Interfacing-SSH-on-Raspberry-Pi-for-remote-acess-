@@ -1,8 +1,8 @@
 # Experiment-No.-05-Interfacing-SSH-on-Raspberry-Pi-for-remote-access-
-### NAME
-### ROLL NO:
-### DEPARTMENT 
-### DATE
+### NAME : Naveen Kumar M
+### ROLL NO : 212222110028
+### DEPARTMENT : CSE(IOT)
+### DATE : 01/05/2025
 
 
 
